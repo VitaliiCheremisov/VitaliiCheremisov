@@ -13,4 +13,4 @@
 I'm Python backend-developer.
 
 ## 🛠 Skills
-![Logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python icon">
